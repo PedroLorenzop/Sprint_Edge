@@ -1,5 +1,5 @@
 
-Analise Das Condicoes do oceano
+Analise Da Temperatura do Motor
 -
 
 Este projeto visa monitorar parâmetros críticos da temperatura do motor, utilizando a tecnologia Arduino para fornecer dados em tempo real sobre temperatura. Essa informação é essencial para a preservação do motor.
